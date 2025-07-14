@@ -4,7 +4,7 @@ This project is the second prototype created for the Lumin AI Internship Task. I
 
 ---
 
-## 💡 Features
+## Features
 
 - Simulated user profiles with tag-based preferences
 - Gaming clips with AI-generated tags (clutch, comedy, headshot, etc.)
@@ -13,7 +13,7 @@ This project is the second prototype created for the Lumin AI Internship Task. I
 
 ---
 
-## 📊 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas / NumPy
@@ -22,7 +22,7 @@ This project is the second prototype created for the Lumin AI Internship Task. I
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Each clip is tagged with descriptive metadata (e.g., `"clutch", "highlight"`).
 2. Each user has a viewing preference history (simulated).
